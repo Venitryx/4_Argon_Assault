@@ -60,12 +60,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\SkySphere_V1\Examples\Gui.cs" />
-    <Compile Include="Assets\SkySphere_V1\Examples\MouseLook.cs" />
-    <None Include="Assets\_CustomShaders\FsSoftGrass.shader" />
-    <None Include="Assets\epyphany\ReadMe.txt" />
-    <None Include="Assets\SkySphere_V1\Documentation\How to use.txt" />
-    <None Include="Assets\_CustomShaders\ReadMe.txt" />
+    <Compile Include="Assets\MusicPlayer.cs" />
+    <None Include="Assets\Imported\_CustomShaders\FsSoftGrass.shader" />
+    <None Include="Assets\Imported\StarSparrow\ReadMe.txt" />
+    <None Include="Assets\Imported\epyphany\ReadMe.txt" />
+    <None Include="Assets\Imported\_CustomShaders\ReadMe.txt" />
+    <None Include="Assets\Imported\StarSparrow\Materials\Unified\UnifiedMaterials.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/codev/Documents/Unity/4_Argon_Assault/4_Argon_Assault/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
